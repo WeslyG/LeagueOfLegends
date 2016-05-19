@@ -1,0 +1,163 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: none;	
+}
+body {
+	background: url("../images/bg.png"), url("../images/bg2.png");
+	background-color: #001518;
+	background-repeat: no-repeat, repeat;
+	background-position: top center;
+}
+h1 {
+	font-family: LolFonts;
+	font-size: 43px;
+	color: #B18845;
+}
+.bod {
+	position: relative;
+	margin: 75px auto;
+	display: block;
+	height: 500px;
+	width: 970px;
+	/*outline: solid 1px #fff;*/
+	background-image: url(../images/txter.png);
+	background-repeat: repeat-x;
+	background-size:  150px 360px;
+	background-position:  100px 85px;
+}
+.logo {
+	position: absolute;
+	display: block;
+	/*outline: solid 1px #fff;*/
+	height: 170px;
+	width: 150px;
+	background: url(../images/fod.png);
+	background-size: 150px;
+}
+.logo a {
+	display: block;
+	height: 170px;
+	width: 150px;
+	/*outline: solid 1px #fff;*/
+
+}
+.logo:hover {
+	background-image: url(../images/fod2.png);
+	background-repeat: no-repeat;
+}
+.txter {
+	position: relative;
+	top: 150px;
+	left: 80px;
+	display: block;
+	/*outline: solid 1px #fff;*/
+	width: 400px;
+	height: 205px;
+	padding-top: 20px;
+	border-right: solid 2px #B18845;
+}
+.head {	
+	position: absolute;
+	left: 200px;
+	margin: 25px auto;
+	display: block;
+	height: 50px;
+	width: 500px;
+	/*outline: solid 1px #fff;*/
+}
+#left {
+	font-family: LolFonts;
+	font-size: 17px;
+	color: #B18845;
+	padding-left: 60px;
+}
+#left2 {
+	display: block;
+	position: relative;
+	left: 70px;
+	top: 20px;
+	height: 0px;
+	width: 120px;
+	/*outline: solid 1px #fff;*/
+	padding-top: 50px;
+	padding-left: 130px;
+	background: url(../images/find.png);
+	background-position: center;
+	background-size: 250px;
+	background-repeat: no-repeat;
+}
+.btn {
+	margin-top: 70px;
+	padding-left: 90px;
+	display: block;
+	height: 50px;
+	width: 300px;
+	/*outline: solid 1px #fff;*/
+	background-image: url(../images/btn.png);
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+.btn:hover {
+	background-image: url(../images/btn2.png);
+	background-repeat: no-repeat;
+}
+.right {
+	bottom: 80px;
+	position: relative;
+	display: block;
+	/*outline: solid 1px #fff;*/
+	height: 250px;
+	width: 460px;
+	margin-left: 490px;
+}
+.right p {
+	font-family: LolFonts;
+	font-size: 24px;
+	color: #B18845;
+}
+input[name=topsearch] {
+	width: 95px;
+	border: none;
+	background: rgba(0,0,0,.01);
+	color: #B18845;
+	font-size: 20px;
+	font-family: LolFonts;
+}
+.find {
+	left: 170px;
+	top: -20px;
+	/*outline: solid 1px #fff;*/
+	display: block;
+	position: relative;
+	width: 185px;
+	height: 25px;
+}
+
+#btnR {
+	position: relative;
+	/*outline: solid 1px #fff;*/
+	right: 44px;
+	border: none;
+	outline: none;
+	display: block;
+	height: 50px;
+	width: 300px;
+	background: rgba(0,0,0,.01);
+	cursor: pointer;
+}
+.TY a{
+	/*outline: solid 1px #fff;*/
+	position: relative;
+	cursor: pointer;
+	left: 150px;
+	border: none;
+	display: block;
+	height: 23px;
+	width: 750px;
+	color: #B18845;
+	font-size: 20px;
+	font-family: LolFonts;
+
+}
+
