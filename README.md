@@ -2,4 +2,4 @@
 Небольшой конвертатор валют из рублей в RP 
 C приведением того, как это будет выглядеть в скинах и сундуках. Сколько их можно купить на ту или иную сумму. 
 
-https://lh3.googleusercontent.com/R5imrbFoIYbniwtNVshqKrHVFjfVR3kro5SwXhHO8baQIqaXJZzty8ZRnXibJ2QFRRIhIZmfmCPSc_36es-r7E2vJ6Np8o-2RSlNQbsNOEgTNdNAz023arJDkwB62d11nuCZqeAcpt1K6BOp78Kd5Q3AODFcylwOuaYGbcxdIWP9yY7bvk42USm3gzWonGl95O2StSaoGJiGdaGOHy8Hmhi50JvW2Cmly-o14A03xqBnDosHnrYck2INaAD_dZ0glILxdLsS4bqPMytpdRZachPe7mtpeYfINqTcjYOfmNwj5pguidPvoYX0fio-Aufjm7AZ684z1JmWxqVElmj3ecc-xthjhchRA_XrXfnFdbzyarhzulvB4movVFbRGwWEbLk8t-K00wPhn9SMS-TP5O7BFlRIK8qUT-VBR_QbQ-6Gxaw9Otd2hvJZsybW4FxA85rnCqSWlB71SJPUrAZ8p03T4SvhAxmoahjb3PMogiLwLIq8Q0JDb2mFsbYpb836_HaLG0DvLM0e20XcVedUWGU-nrJMpf-PUAm24qrxh8cK6WO_fDa2cPsY89q5pB_xoSkckB-bly08ibb_2c4OL8v5kczxm6U=w1045-h539-no
+[Иллюстрация к проекту](https://raw.githubusercontent.com/WeslyG/LeagueOfLegends/master/images/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
