@@ -83,25 +83,31 @@ h1 {
 	padding-top: 50px;
 	padding-left: 130px;
 	background: url(../images/find.png);
-	background-position: center;
 	background-size: 250px;
 	background-repeat: no-repeat;
 }
+
+/*######################################################*/
+
 .btn {
+	position: absolute;
 	margin-top: 70px;
-	padding-left: 90px;
 	display: block;
-	height: 50px;
-	width: 300px;
+	height: 46px;
+	width: 289px;
+	left: 45px;
 	/*outline: solid 1px #fff;*/
 	background-image: url(../images/btn.png);
 	background-repeat: no-repeat;
-	background-position: center;	
+	background-position:  -2px -52px;
 }
 .btn:hover {
-	background-image: url(../images/btn2.png);
-	background-repeat: no-repeat;
+	background-image: url(../images/btn.png) no-repeat;
+	background-position:  -1px -2px;
 }
+
+/*######################################################*/
+
 .right {
 	bottom: 80px;
 	position: relative;
@@ -161,3 +167,6 @@ input[name=topsearch] {
 
 }
 
+#img2 {
+	visibility: hidden;
+}

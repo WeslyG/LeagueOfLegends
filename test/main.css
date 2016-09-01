@@ -1,0 +1,20 @@
+ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.button li {
+	background: url(./images/btn.png) no-repeat;
+	display: inline-block;
+	width: 291px;
+	height: 48px;
+	cursor: pointer;
+	cursor: pointer;
+	background-position:  -1px -51px;
+
+}
+
+.button .button2:hover {
+	background-position:  1px 0px;
+}
