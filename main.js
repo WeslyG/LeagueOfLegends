@@ -5,14 +5,16 @@ var Ob18;
 var Ob10;
 var Ob32;
 var Nab;
+var cof = 2.75;
+
 
 function proverka(input) {
 	var value = input.value;
 	var rep = /[@#$%^| &*()=№;?!_+~`\/.;ёЁ":'a-zA-Zа-яА-Я]/;
-	if (rep.test(value)) { 
+	if (rep.test(value)) {
 		value = value.replace(rep, '')
 		input.value = value;
-	} 
+	}
 }
 
 function GO() {
@@ -66,6 +68,10 @@ document.getElementById('Rito6').innerHTML = Ob18;
 Ob32 = Math.floor (MyVar/3250);
 document.getElementById('Rito7').innerHTML = Ob32; 
 
+// document.getElementById('Rp9').innerHTML = 348; //975
+// document.getElementById('Rp9').innerHTML = 450; //1350
+// document.getElementById('Rp9').innerHTML = 596; //1850
+// document.getElementById('Rp9').innerHTML = 1015; //3250
 
 }
 
