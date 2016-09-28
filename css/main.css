@@ -28,31 +28,33 @@ h1 {
 }
 .logo {
 	position: absolute;
-	display: block;
-	/*outline: solid 1px #fff;*/
-	height: 170px;
-	width: 150px;
-	background: url(../images/fod.png);
-	background-size: 150px;
+	display: inline-block;
+/*	outline: solid 1px #fff;*/
+	height: 181px;
+	width: 152px;
+	background: url(../images/all.svg) no-repeat;
+	background-size: 305px;
 }
 .logo a {
 	display: block;
-	height: 170px;
-	width: 150px;
-	/*outline: solid 1px #fff;*/
+	height: 189px;
+	width: 161px;
+/*	outline: solid 1px #fff;*/
 
 }
 .logo:hover {
-	background-image: url(../images/fod2.png);
+	background-image: url(../images/all.svg);
 	background-repeat: no-repeat;
+    background-position: -148px 0px;
+    display: inline-block;
 }
 .txter {
 	position: relative;
 	top: 106px;
-	left: 80px;
+	left: 119px;
 	display: block;
 	/*outline: solid 1px #fff;*/
-	width: 390px;
+	width: 360px;
 	height: 266px;
 	padding-top: 47px;
 	border-right: solid 2px #B18845;
@@ -156,12 +158,12 @@ input[name=topsearch] {
 	/*outline: solid 1px #fff;*/
 	position: relative;
 	cursor: pointer;
-	left: 147px;
-    top:-10px;
+	left: 92px;
+/*    top:0px;*/
 	border: none;
 	display: block;
-	height: 22px;
-	width: 687px;
+	height: 18px;
+	width: 771px;
 	color: #B18845;
 	font-size: 20px;
 	font-family: LolFonts;
@@ -169,7 +171,7 @@ input[name=topsearch] {
 
 .TY p{
 	position: relative;
-	top:-29px;
+	top:-62px;
 }
 
 #img2 {
